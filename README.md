@@ -1,9 +1,10 @@
 # a simple github repo scorer
 
-scores repositories based on stars, forks, and recency of updates. project was created with typescript and nodejs<br/>
-Stars contribute 50% to the score.<br/>
-Forks contribute 30% to the score.<br/>
-Recency contributes 20% to the score.<br/>
+scores repositories based on stars, forks, and recency of updates. 
+project was created with `typescript` and `nodejs`<br/>
+`stars` contribute `50%` to the score.<br/>
+`forks` contribute `30%` to the score.<br/>
+`recency` contributes `20%` to the score.<br/>
 
 ## how to run
 
