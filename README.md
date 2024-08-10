@@ -18,3 +18,12 @@ to start the env
 
 ### `npm test`
 to run all tests
+
+## how to use
+you can use a url looking like this:<br/>
+`http://localhost:3000/repositories?query=test&language=typescript&created=2024-01-10`
+
+three parameters are required: <br/>
+- `query`: requires a `string`
+- `language`: requires a `string`
+- `created`: requires a date as `string` in `YYYY-MM-DD` format (2024-01-10)
